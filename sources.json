@@ -1,0 +1,1704 @@
+{
+ "repo": "746103/qx-rules",
+ "branch": "main",
+ "files": [
+  {
+   "path": "icons/github.githubassets.com/google.png",
+   "url": "https://github.githubassets.com/images/modules/site/integrators/google.png",
+   "kind": "icon"
+  },
+  {
+   "path": "scripts/KOP-XIAO/IP_API.js",
+   "url": "https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/IP_API.js",
+   "kind": "script"
+  },
+  {
+   "path": "scripts/KOP-XIAO/resource-parser.js",
+   "url": "https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js",
+   "kind": "script"
+  },
+  {
+   "path": "icons/lige47/chinese.png",
+   "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/01Country/chinese.png",
+   "kind": "icon"
+  },
+  {
+   "path": "icons/Semporia/Streaming.png",
+   "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/Streaming.png",
+   "kind": "icon"
+  },
+  {
+   "path": "scripts/CC13594759/IPPure.js",
+   "url": "https://raw.githubusercontent.com/CC13594759/QuantumultX/main/IPPure.js",
+   "kind": "script"
+  },
+  {
+   "path": "scripts/deezertidal/histoday.js",
+   "url": "https://raw.githubusercontent.com/deezertidal/private/main/histoday.js",
+   "kind": "script"
+  },
+  {
+   "path": "scripts/deezertidal/oil.js",
+   "url": "https://raw.githubusercontent.com/deezertidal/private/main/oil.js",
+   "kind": "script"
+  },
+  {
+   "path": "scripts/Neurocoda/AutoMonitorTF.js",
+   "url": "https://raw.githubusercontent.com/Neurocoda/AutoTF/refs/heads/main/AutoMonitorTF.js",
+   "kind": "script"
+  },
+  {
+   "path": "scripts/xream/net-lsp-x.js",
+   "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/network-info/net-lsp-x.js",
+   "kind": "script"
+  },
+  {
+   "path": "scripts/KOP-XIAO/streaming-ui-check.js",
+   "url": "https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/streaming-ui-check.js",
+   "kind": "script"
+  },
+  {
+   "path": "icons/fmz200/ad(3).png",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/ad(3).png",
+   "kind": "icon"
+  },
+  {
+   "path": "scripts/RavelloH/block_check.js",
+   "url": "https://gist.githubusercontent.com/RavelloH/383354955aa3800e1d7e98666e11e16f/raw/block_check.js",
+   "kind": "script"
+  },
+  {
+   "path": "scripts/RavelloH/ip_test.js",
+   "url": "https://gist.github.com/RavelloH/d4152389cd810a402b641a625ce83857/raw/ip_test.js",
+   "kind": "script"
+  },
+  {
+   "path": "scripts/ddgksf2013.top/server-info-pure.js",
+   "url": "https://ddgksf2013.top/scripts/server-info-pure.js",
+   "kind": "script"
+  },
+  {
+   "path": "scripts/unknowntokyo/dns-clear-cache.js",
+   "url": "https://raw.githubusercontent.com/unknowntokyo/surge-list/master/X/dns-clear-cache.js",
+   "kind": "script"
+  },
+  {
+   "path": "icons/Koolson/Lab.png",
+   "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Lab.png",
+   "kind": "icon"
+  },
+  {
+   "path": "scripts/MaYIHEI/milottery.js",
+   "url": "https://raw.githubusercontent.com/MaYIHEI/paperclip/refs/heads/main/app/milottery/milottery.js",
+   "kind": "script"
+  },
+  {
+   "path": "rewrite/ZenmoFeiShi/Keep.snippet",
+   "url": "https://raw.githubusercontent.com/ZenmoFeiShi/Qx/main/Keep.snippet",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/ZenmoFeiShi/T3.snippet",
+   "url": "https://raw.githubusercontent.com/ZenmoFeiShi/Qx/main/T3.snippet",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/ZenmoFeiShi/Youtube.snippet",
+   "url": "https://raw.githubusercontent.com/ZenmoFeiShi/Qx/main/Youtube.snippet",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/ZenmoFeiShi/Yt-zh.snippet",
+   "url": "https://raw.githubusercontent.com/ZenmoFeiShi/Qx/main/Yt-zh.snippet",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/ZenmoFeiShi/TB.snippet",
+   "url": "https://raw.githubusercontent.com/ZenmoFeiShi/Qx/main/TB.snippet",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/ZenmoFeiShi/SF.snippet",
+   "url": "https://raw.githubusercontent.com/ZenmoFeiShi/Qx/main/SF.snippet",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/ZenmoFeiShi/WxPureDominion.snippet",
+   "url": "https://raw.githubusercontent.com/ZenmoFeiShi/Qx/main/WxPureDominion.snippet",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/ZenmoFeiShi/Pinduoduo.snippet",
+   "url": "https://raw.githubusercontent.com/ZenmoFeiShi/Qx/main/Pinduoduo.snippet",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/ZenmoFeiShi/MT.snippet",
+   "url": "https://raw.githubusercontent.com/ZenmoFeiShi/Qx/main/MT.snippet",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/devchristian1337/Spotify.lpx",
+   "url": "https://raw.githubusercontent.com/devchristian1337/loon-plugins/refs/heads/main/Plugins/Spotify.lpx",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/DualSubs/DualSubs.Universal.snippet",
+   "url": "https://github.com/DualSubs/Universal/releases/latest/download/DualSubs.Universal.snippet",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/TAKAGIVEGETA/lingoDuo-xaM.conf",
+   "url": "https://raw.githubusercontent.com/TAKAGIVEGETA/MyScripts/main/lingoDuo/lingoDuo-xaM.conf",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/ddgksf2013.top/TencentDocAds.conf",
+   "url": "https://ddgksf2013.top/rewrite/TencentDocAds.conf",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/ddgksf2013.top/javdbapp.ads.js",
+   "url": "https://ddgksf2013.top/scripts/javdbapp.ads.js",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/ddgksf2013.top/missav.ads.js",
+   "url": "https://ddgksf2013.top/scripts/missav.ads.js",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/ddgksf2013/Douban.conf",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/Html/Douban.conf",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/ddgksf2013/MoJiWeatherAds.conf",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/MoJiWeatherAds.conf",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/ddgksf2013/Applet.conf",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/Applet.conf",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/ddgksf2013.top/BiliBiliAdsLite.conf",
+   "url": "https://ddgksf2013.top/rewrite/BiliBiliAdsLite.conf",
+   "kind": "rewrite"
+  },
+  {
+   "path": "icons/Koolson/bilibili.png",
+   "url": "https://github.com/Koolson/Qure/raw/master/IconSet/mini/bilibili.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rewrite/ddgksf2013/CaiYunAds.conf",
+   "url": "https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/CaiYunAds.conf",
+   "kind": "rewrite"
+  },
+  {
+   "path": "icons/ddgksf2013/caiyuntianqi.png",
+   "url": "https://github.com/ddgksf2013/Icon/raw/master/qx/caiyuntianqi.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rewrite/ddgksf2013.top/zhihu.ads.js",
+   "url": "https://ddgksf2013.top/scripts/zhihu.ads.js",
+   "kind": "rewrite"
+  },
+  {
+   "path": "icons/ddgksf2013/zhihu.png",
+   "url": "https://github.com/ddgksf2013/Icon/raw/master/qx/zhihu.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rewrite/ddgksf2013/WeiboAds.conf",
+   "url": "https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/WeiboAds.conf",
+   "kind": "rewrite"
+  },
+  {
+   "path": "icons/Koolson/Weibo.png",
+   "url": "https://github.com/Koolson/Qure/raw/master/IconSet/mini/Weibo.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rewrite/ddgksf2013.top/WeiboEnhanced.conf",
+   "url": "https://ddgksf2013.top/rewrite/WeiboEnhanced.conf",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/ddgksf2013/AmapAds.conf",
+   "url": "https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/AmapAds.conf",
+   "kind": "rewrite"
+  },
+  {
+   "path": "icons/ddgksf2013/gaode.png",
+   "url": "https://github.com/ddgksf2013/Icon/raw/master/qx/gaode.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rewrite/ddgksf2013/NeteaseAds.conf",
+   "url": "https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/NeteaseAds.conf",
+   "kind": "rewrite"
+  },
+  {
+   "path": "icons/Koolson/Netease_Music.png",
+   "url": "https://github.com/Koolson/Qure/raw/master/IconSet/mini/Netease_Music.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rewrite/ddgksf2013/GoofishAds.conf",
+   "url": "https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/GoofishAds.conf",
+   "kind": "rewrite"
+  },
+  {
+   "path": "icons/ddgksf2013/xianyu.png",
+   "url": "https://github.com/ddgksf2013/Icon/raw/master/qx/xianyu.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rewrite/ddgksf2013/Q-Search.conf",
+   "url": "https://github.com/ddgksf2013/Rewrite/raw/master/Html/Q-Search.conf",
+   "kind": "rewrite"
+  },
+  {
+   "path": "icons/ddgksf2013/search.png",
+   "url": "https://github.com/ddgksf2013/Icon/raw/master/qx/search.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rewrite/ddgksf2013/Douban_2.conf",
+   "url": "https://github.com/ddgksf2013/Rewrite/raw/master/Html/Douban.conf",
+   "kind": "rewrite"
+  },
+  {
+   "path": "icons/ddgksf2013/douban.png",
+   "url": "https://github.com/ddgksf2013/Icon/raw/master/qx/douban.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rewrite/ddgksf2013/General.conf",
+   "url": "https://github.com/ddgksf2013/Rewrite/raw/master/Html/General.conf",
+   "kind": "rewrite"
+  },
+  {
+   "path": "icons/Koolson/Google.png",
+   "url": "https://github.com/Koolson/Qure/raw/master/IconSet/mini/Google.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rewrite/NobyDa/GoogleCAPTCHA.snippet",
+   "url": "https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Snippet/GoogleCAPTCHA.snippet",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/ddgksf2013.top/XiaoHongShuAds.conf",
+   "url": "https://ddgksf2013.top/rewrite/XiaoHongShuAds.conf",
+   "kind": "rewrite"
+  },
+  {
+   "path": "icons/ddgksf2013/xiaohongshu.png",
+   "url": "https://github.com/ddgksf2013/Icon/raw/master/qx/xiaohongshu.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rewrite/ddgksf2013.top/bdpan.ads.js",
+   "url": "https://ddgksf2013.top/scripts/bdpan.ads.js",
+   "kind": "rewrite"
+  },
+  {
+   "path": "icons/ddgksf2013/baiduwangpan.png",
+   "url": "https://github.com/ddgksf2013/Icon/raw/master/qx/baiduwangpan.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rewrite/ddgksf2013/UnblockURLinWeChat.conf",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/Function/UnblockURLinWeChat.conf",
+   "kind": "rewrite"
+  },
+  {
+   "path": "icons/Koolson/WeChat.png",
+   "url": "https://github.com/Koolson/Qure/raw/master/IconSet/mini/WeChat.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rewrite/ddgksf2013.top/bdpan.unlock.js",
+   "url": "https://ddgksf2013.top/scripts/bdpan.unlock.js",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/RavelloH/main.snippet",
+   "url": "https://gist.githubusercontent.com/RavelloH/68ed0626dae69a1ce7c8ad6887087ea1/raw/main.snippet",
+   "kind": "rewrite"
+  },
+  {
+   "path": "icons/Semporia/Reddit.png",
+   "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Reddit.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rewrite/reven.jsforbaby.workers.dev/iTunes.conf",
+   "url": "https://reven.jsforbaby.workers.dev/reven/iTunes.conf",
+   "kind": "rewrite"
+  },
+  {
+   "path": "icons/fmz200/Apple_iTunesStore.png",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_iTunesStore.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rewrite/chavyleung/boxjs.rewrite.quanx.conf",
+   "url": "https://github.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.quanx.conf",
+   "kind": "rewrite"
+  },
+  {
+   "path": "icons/fmz200/BlinkLoad_01.png",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/BlinkLoad_01.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rewrite/fmz200/cleanup.snippet",
+   "url": "https://github.com/fmz200/wool_scripts/raw/main/QuantumultX/rewrite/cleanup.snippet",
+   "kind": "rewrite"
+  },
+  {
+   "path": "icons/fmz200/Category_Research.png",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Category_Research.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rewrite/ZenmoFeiShi/WxPureDominion_2.snippet",
+   "url": "https://raw.githubusercontent.com/ZenmoFeiShi/Qx/refs/heads/main/WxPureDominion.snippet",
+   "kind": "rewrite"
+  },
+  {
+   "path": "icons/lige47/wechat.png",
+   "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/03CNSoft/wechat.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rewrite/fmz200/QiShuiMusic.snippet",
+   "url": "https://github.com/fmz200/wool_scripts/raw/main/QuantumultX/rewrite/split/partQ/QiShuiMusic.snippet",
+   "kind": "rewrite"
+  },
+  {
+   "path": "icons/lige47/qishuiyinyue.png",
+   "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/03CNSoft/qishuiyinyue.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rewrite/NSRingo/iRingo.WeatherKit.snippet",
+   "url": "https://github.com/NSRingo/WeatherKit/releases/latest/download/iRingo.WeatherKit.snippet",
+   "kind": "rewrite"
+  },
+  {
+   "path": "icons/fmz200/Apple_Weather.png",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_Weather.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rewrite/sub-store-org/QX.snippet",
+   "url": "https://raw.githubusercontent.com/sub-store-org/Sub-Store/master/config/QX.snippet",
+   "kind": "rewrite"
+  },
+  {
+   "path": "icons/chxm1023/substore.png",
+   "url": "https://raw.githubusercontent.com/chxm1023/Script_X/main/icon/substore.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rewrite/TomCatXue/PixivEnhanced.plugin",
+   "url": "https://raw.githubusercontent.com/TomCatXue/MyCookieCenter/main/loon/PixivEnhanced.plugin",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/ddgksf2013.top/pornhub.ads.js",
+   "url": "https://ddgksf2013.top/scripts/pornhub.ads.js",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/ddgksf2013/pipixia.adblock.js",
+   "url": "https://gist.githubusercontent.com/ddgksf2013/bb1dadbd32f67c68772caebcc70b0a33/raw/pipixia.adblock.js",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/Maasea/WeRead.sgmodule",
+   "url": "https://raw.githubusercontent.com/Maasea/sgmodule/master/WeRead.sgmodule",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/ddgksf2013/RedditAds.conf",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/RedditAds.conf",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/ddgksf2013.top/Redirect2Turrit.sgmodule",
+   "url": "https://ddgksf2013.top/module/Redirect2Turrit.sgmodule",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/ddgksf2013/Bilibili_CC.conf",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/Function/Bilibili_CC.conf",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/ddgksf2013.top/pikpak.fnc.js",
+   "url": "https://ddgksf2013.top/scripts/pikpak.fnc.js",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/chavyleung/boxjs.rewrite.quanx_2.conf",
+   "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.quanx.conf",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/ddgksf2013/Q-Search_2.conf",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/Html/Q-Search.conf",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/ddgksf2013/BiliBiliComicsAds.conf",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/BiliBiliComicsAds.conf",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/ddgksf2013.top/wannianli.vip.js",
+   "url": "https://ddgksf2013.top/scripts/wannianli.vip.js",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/ddgksf2013/AmapAds_2.conf",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/AmapAds.conf",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/ZenmoFeiShi/rewrite.conf",
+   "url": "https://raw.githubusercontent.com/ZenmoFeiShi/Reject-AD/main/rewrite.conf",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/limbopro.com/Adblock4limbo.conf",
+   "url": "https://limbopro.com/Adblock4limbo.conf",
+   "kind": "rewrite"
+  },
+  {
+   "path": "icons/Semporia/NextDoor.png",
+   "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/NextDoor.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rewrite/ddgksf2013.top/StartUpAds.conf",
+   "url": "https://ddgksf2013.top/rewrite/StartUpAds.conf",
+   "kind": "rewrite"
+  },
+  {
+   "path": "icons/Koolson/Advertising.png",
+   "url": "https://github.com/Koolson/Qure/raw/master/IconSet/mini/Advertising.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rewrite/fmz200/rewrite.snippet",
+   "url": "https://github.com/fmz200/wool_scripts/raw/main/QuantumultX/rewrite/rewrite.snippet",
+   "kind": "rewrite"
+  },
+  {
+   "path": "icons/cc63/ACA.png",
+   "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/ACA.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rewrite/ddgksf2013/QiShuiMusicAds.conf",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/QiShuiMusicAds.conf",
+   "kind": "rewrite"
+  },
+  {
+   "path": "icons/fmz200/Category_Music.png",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Category_Music.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rewrite/ddgksf2013/YoutubeAds.conf",
+   "url": "https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/YoutubeAds.conf",
+   "kind": "rewrite"
+  },
+  {
+   "path": "icons/Koolson/YouTube.png",
+   "url": "https://github.com/Koolson/Qure/raw/master/IconSet/mini/YouTube.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rewrite/app2smile/spotify.conf",
+   "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/spotify.conf",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/DualSubs/DualSubs.YouTube.snippet",
+   "url": "https://github.com/DualSubs/YouTube/releases/latest/download/DualSubs.YouTube.snippet",
+   "kind": "rewrite"
+  },
+  {
+   "path": "rewrite/DualSubs/DualSubs.Spotify.snippet",
+   "url": "https://github.com/DualSubs/Spotify/releases/latest/download/DualSubs.Spotify.snippet",
+   "kind": "rewrite"
+  },
+  {
+   "path": "icons/tugepaopao/clock.png",
+   "url": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/clock.png",
+   "kind": "icon"
+  },
+  {
+   "path": "icons/Koolson/Auto.png",
+   "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Auto.png",
+   "kind": "icon"
+  },
+  {
+   "path": "icons/Orz-3/HK.png",
+   "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/HK.png",
+   "kind": "icon"
+  },
+  {
+   "path": "icons/Orz-3/TW.png",
+   "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/TW.png",
+   "kind": "icon"
+  },
+  {
+   "path": "icons/Orz-3/JP.png",
+   "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/JP.png",
+   "kind": "icon"
+  },
+  {
+   "path": "icons/Orz-3/SG.png",
+   "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/SG.png",
+   "kind": "icon"
+  },
+  {
+   "path": "icons/Orz-3/US.png",
+   "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/US.png",
+   "kind": "icon"
+  },
+  {
+   "path": "icons/tugepaopao/3icon.png",
+   "url": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/3icon.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rules/limbopro.com/Adblock4limbo.list",
+   "url": "https://limbopro.com/Adblock4limbo.list",
+   "kind": "rule"
+  },
+  {
+   "path": "rules/Cats-Team/qx.conf",
+   "url": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/qx.conf",
+   "kind": "rule"
+  },
+  {
+   "path": "rules/fmz200/filterFix.list",
+   "url": "https://github.com/fmz200/wool_scripts/raw/main/QuantumultX/filter/filterFix.list",
+   "kind": "rule"
+  },
+  {
+   "path": "rules/fmz200/filter.list",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/filter.list",
+   "kind": "rule"
+  },
+  {
+   "path": "rules/ddgksf2013/Unbreak.list",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Filter/master/Unbreak.list",
+   "kind": "rule"
+  },
+  {
+   "path": "icons/Koolson/Direct.png",
+   "url": "https://github.com/Koolson/Qure/raw/master/IconSet/mini/Direct.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rules/TG-Twilight/AWAvenue-Ads-Rule-QuantumultX.list",
+   "url": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-QuantumultX.list",
+   "kind": "rule"
+  },
+  {
+   "path": "rules/blackmatrix7/WeChat.list",
+   "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/WeChat/WeChat.list",
+   "kind": "rule"
+  },
+  {
+   "path": "rules/blackmatrix7/NetEaseMusic.list",
+   "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/NetEaseMusic/NetEaseMusic.list",
+   "kind": "rule"
+  },
+  {
+   "path": "rules/blackmatrix7/Apple.list",
+   "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Apple/Apple.list",
+   "kind": "rule"
+  },
+  {
+   "path": "icons/Koolson/Apple.png",
+   "url": "https://github.com/Koolson/Qure/raw/master/IconSet/mini/Apple.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rules/blackmatrix7/Weibo.list",
+   "url": "https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Loon/Weibo/Weibo.list",
+   "kind": "rule"
+  },
+  {
+   "path": "icons/Semporia/Sina_Weibo.png",
+   "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Sina_Weibo.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rules/Loyalsoldier/direct.txt",
+   "url": "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/direct.txt",
+   "kind": "rule"
+  },
+  {
+   "path": "rules/VPSDance/global.list",
+   "url": "https://cdn.jsdelivr.net/gh/VPSDance/ai-proxy-rules@main/rules/quantumult-x/global.list",
+   "kind": "rule"
+  },
+  {
+   "path": "rules/ddgksf2013/AppleIntelligence.list",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Filter/refs/heads/master/AppleIntelligence.list",
+   "kind": "rule"
+  },
+  {
+   "path": "rules/fmz200/blockAppleUpdate.list",
+   "url": "https://github.com/fmz200/wool_scripts/raw/main/QuantumultX/filter/blockAppleUpdate.list",
+   "kind": "rule"
+  },
+  {
+   "path": "rules/ddgksf2013/StreamingSE.list",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Filter/master/StreamingSE.list",
+   "kind": "rule"
+  },
+  {
+   "path": "rules/fmz200/Douyin.list",
+   "url": "https://github.com/fmz200/wool_scripts/raw/main/Loon/rule/Douyin.list",
+   "kind": "rule"
+  },
+  {
+   "path": "icons/fmz200/Tiktok_09.png",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Tiktok_09.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rules/blackmatrix7/TikTok.list",
+   "url": "https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/QuantumultX/TikTok/TikTok.list",
+   "kind": "rule"
+  },
+  {
+   "path": "rules/fmz200/RedBook.list",
+   "url": "https://github.com/fmz200/wool_scripts/raw/main/Loon/rule/RedBook.list",
+   "kind": "rule"
+  },
+  {
+   "path": "icons/fmz200/xiaohongshu_01.png",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/xiaohongshu_01.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rules/fmz200/KuaiShou.list",
+   "url": "https://github.com/fmz200/wool_scripts/raw/main/Loon/rule/KuaiShou.list",
+   "kind": "rule"
+  },
+  {
+   "path": "icons/fmz200/kuaishou_01.png",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/kuaishou_01.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rules/blackmatrix7/Telegram.list",
+   "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Telegram/Telegram.list",
+   "kind": "rule"
+  },
+  {
+   "path": "rules/ddgksf2013/GoogleVoice.list",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Filter/master/GoogleVoice.list",
+   "kind": "rule"
+  },
+  {
+   "path": "icons/ddgksf2013/googlevoice.png",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Icon/master/qx/googlevoice.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rules/blackmatrix7/Spotify.list",
+   "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Spotify/Spotify.list",
+   "kind": "rule"
+  },
+  {
+   "path": "icons/Koolson/Spotify.png",
+   "url": "https://github.com/Koolson/Qure/raw/master/IconSet/mini/Spotify.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rules/blackmatrix7/GitHub.list",
+   "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/GitHub/GitHub.list",
+   "kind": "rule"
+  },
+  {
+   "path": "rules/ddgksf2013/Streaming.list",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Filter/master/Streaming.list",
+   "kind": "rule"
+  },
+  {
+   "path": "icons/Koolson/GlobalMedia.png",
+   "url": "https://github.com/Koolson/Qure/raw/master/IconSet/mini/GlobalMedia.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rules/ConnersHua/Proxy.list",
+   "url": "https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Ruleset/Proxy.list",
+   "kind": "rule"
+  },
+  {
+   "path": "icons/Koolson/Global.png",
+   "url": "https://github.com/Koolson/Qure/raw/master/IconSet/mini/Global.png",
+   "kind": "icon"
+  },
+  {
+   "path": "rules/fmz200/GeoIP_CN.list",
+   "url": "https://github.com/fmz200/wool_scripts/raw/main/Loon/rule/GeoIP_CN.list",
+   "kind": "rule"
+  },
+  {
+   "path": "rules/fmz200/LAN.list",
+   "url": "https://github.com/fmz200/wool_scripts/raw/main/Loon/rule/LAN.list",
+   "kind": "rule"
+  },
+  {
+   "path": "rules/VPSDance/global_2.list",
+   "url": "https://raw.githubusercontent.com/VPSDance/ai-proxy-rules/main/rules/quantumult-x/global.list",
+   "kind": "rule"
+  },
+  {
+   "path": "rules/ddgksf2013.top/Ai.yaml",
+   "url": "https://ddgksf2013.top/filter/Ai.yaml",
+   "kind": "rule"
+  },
+  {
+   "path": "icons/ddgksf2013/ai.png",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Icon/master/qx/ai.png",
+   "kind": "icon"
+  },
+  {
+   "path": "scripts/ZenmoFeiShi/youtube.response.js",
+   "url": "https://raw.githubusercontent.com/ZenmoFeiShi/Qx/refs/heads/main/youtube.response.js",
+   "kind": "script",
+   "parent": "rewrite/ZenmoFeiShi/Youtube.snippet"
+  },
+  {
+   "path": "scripts/ZenmoFeiShi/yt-sub-clean.js",
+   "url": "https://raw.githubusercontent.com/ZenmoFeiShi/Qx/refs/heads/main/yt-sub-clean.js",
+   "kind": "script",
+   "parent": "rewrite/ZenmoFeiShi/Yt-zh.snippet"
+  },
+  {
+   "path": "scripts/ZenmoFeiShi/yt-zh-sub.js",
+   "url": "https://raw.githubusercontent.com/ZenmoFeiShi/Qx/refs/heads/main/yt-zh-sub.js",
+   "kind": "script",
+   "parent": "rewrite/ZenmoFeiShi/Yt-zh.snippet"
+  },
+  {
+   "path": "scripts/app2smile/tieba-json.js",
+   "url": "https://raw.githubusercontent.com/app2smile/rules/master/js/tieba-json.js",
+   "kind": "script",
+   "parent": "rewrite/ZenmoFeiShi/TB.snippet"
+  },
+  {
+   "path": "scripts/app2smile/tieba-proto.js",
+   "url": "https://raw.githubusercontent.com/app2smile/rules/master/js/tieba-proto.js",
+   "kind": "script",
+   "parent": "rewrite/ZenmoFeiShi/TB.snippet"
+  },
+  {
+   "path": "scripts/ZenmoFeiShi/MeiTuanNoAd.js",
+   "url": "https://raw.githubusercontent.com/ZenmoFeiShi/Qx/refs/heads/main/MeiTuanNoAd.js",
+   "kind": "script",
+   "parent": "rewrite/ZenmoFeiShi/WxPureDominion.snippet"
+  },
+  {
+   "path": "scripts/ZenmoFeiShi/Pinduoduo.js",
+   "url": "https://raw.githubusercontent.com/ZenmoFeiShi/Qx/refs/heads/main/Pinduoduo.js",
+   "kind": "script",
+   "parent": "rewrite/ZenmoFeiShi/Pinduoduo.snippet"
+  },
+  {
+   "path": "scripts/ZenmoFeiShi/MT.js",
+   "url": "https://raw.githubusercontent.com/ZenmoFeiShi/Qx/refs/heads/main/MT.js",
+   "kind": "script",
+   "parent": "rewrite/ZenmoFeiShi/MT.snippet"
+  },
+  {
+   "path": "scripts/devchristian1337/spot-gabo.js",
+   "url": "https://raw.githubusercontent.com/devchristian1337/loon-plugins/refs/heads/main/Scripts/Spotify/spot-gabo.js",
+   "kind": "script",
+   "parent": "rewrite/devchristian1337/Spotify.lpx"
+  },
+  {
+   "path": "scripts/devchristian1337/spot-NoSearchAd.js",
+   "url": "https://raw.githubusercontent.com/devchristian1337/loon-plugins/refs/heads/main/Scripts/Spotify/spot-NoSearchAd.js",
+   "kind": "script",
+   "parent": "rewrite/devchristian1337/Spotify.lpx"
+  },
+  {
+   "path": "scripts/devchristian1337/spot-NoHomeAd.js",
+   "url": "https://raw.githubusercontent.com/devchristian1337/loon-plugins/refs/heads/main/Scripts/Spotify/spot-NoHomeAd.js",
+   "kind": "script",
+   "parent": "rewrite/devchristian1337/Spotify.lpx"
+  },
+  {
+   "path": "scripts/devchristian1337/spot-NoScrollAd.js",
+   "url": "https://raw.githubusercontent.com/devchristian1337/loon-plugins/refs/heads/main/Scripts/Spotify/spot-NoScrollAd.js",
+   "kind": "script",
+   "parent": "rewrite/devchristian1337/Spotify.lpx"
+  },
+  {
+   "path": "scripts/devchristian1337/spot-proto-eevee.js",
+   "url": "https://raw.githubusercontent.com/devchristian1337/loon-plugins/refs/heads/main/Scripts/Spotify/spot-proto-eevee.js",
+   "kind": "script",
+   "parent": "rewrite/devchristian1337/Spotify.lpx"
+  },
+  {
+   "path": "scripts/devchristian1337/spot-proto-ev3.js",
+   "url": "https://raw.githubusercontent.com/devchristian1337/loon-plugins/refs/heads/main/Scripts/Spotify/spot-proto-ev3.js",
+   "kind": "script",
+   "parent": "rewrite/devchristian1337/Spotify.lpx"
+  },
+  {
+   "path": "scripts/NSNanoCat/api.js",
+   "url": "https://github.com/NSNanoCat/PreferencePanes/releases/download/v1.3.1/api.js",
+   "kind": "script",
+   "parent": "rewrite/DualSubs/DualSubs.Universal.snippet"
+  },
+  {
+   "path": "others/DualSubs/DualSubs.Universal.PreferencePanes.json",
+   "url": "https://github.com/DualSubs/Universal/releases/download/v1.8.3/DualSubs.Universal.PreferencePanes.json",
+   "kind": "data",
+   "parent": "rewrite/DualSubs/DualSubs.Universal.snippet"
+  },
+  {
+   "path": "others/DualSubs/DualSubs.Composite.PreferencePanes.json",
+   "url": "https://github.com/DualSubs/Universal/releases/download/v1.8.3/DualSubs.Composite.PreferencePanes.json",
+   "kind": "data",
+   "parent": "rewrite/DualSubs/DualSubs.Universal.snippet"
+  },
+  {
+   "path": "others/DualSubs/DualSubs.Translate.PreferencePanes.json",
+   "url": "https://github.com/DualSubs/Universal/releases/download/v1.8.3/DualSubs.Translate.PreferencePanes.json",
+   "kind": "data",
+   "parent": "rewrite/DualSubs/DualSubs.Universal.snippet"
+  },
+  {
+   "path": "others/DualSubs/DualSubs.External.PreferencePanes.json",
+   "url": "https://github.com/DualSubs/Universal/releases/download/v1.8.3/DualSubs.External.PreferencePanes.json",
+   "kind": "data",
+   "parent": "rewrite/DualSubs/DualSubs.Universal.snippet"
+  },
+  {
+   "path": "others/DualSubs/DualSubs.API.Translate.PreferencePanes.json",
+   "url": "https://github.com/DualSubs/Universal/releases/download/v1.8.3/DualSubs.API.Translate.PreferencePanes.json",
+   "kind": "data",
+   "parent": "rewrite/DualSubs/DualSubs.Universal.snippet"
+  },
+  {
+   "path": "scripts/DualSubs/Manifest.response.bundle.js",
+   "url": "https://github.com/DualSubs/Universal/releases/download/v1.8.3/Manifest.response.bundle.js",
+   "kind": "script",
+   "parent": "rewrite/DualSubs/DualSubs.Universal.snippet"
+  },
+  {
+   "path": "scripts/DualSubs/Composite.Subtitles.response.bundle.js",
+   "url": "https://github.com/DualSubs/Universal/releases/download/v1.8.3/Composite.Subtitles.response.bundle.js",
+   "kind": "script",
+   "parent": "rewrite/DualSubs/DualSubs.Universal.snippet"
+  },
+  {
+   "path": "scripts/DualSubs/Translate.response.bundle.js",
+   "url": "https://github.com/DualSubs/Universal/releases/download/v1.8.3/Translate.response.bundle.js",
+   "kind": "script",
+   "parent": "rewrite/DualSubs/DualSubs.Universal.snippet"
+  },
+  {
+   "path": "scripts/TAKAGIVEGETA/lingoDuo-xaM.js",
+   "url": "https://raw.githubusercontent.com/TAKAGIVEGETA/MyScripts/main/lingoDuo/lingoDuo-xaM.js",
+   "kind": "script",
+   "parent": "rewrite/TAKAGIVEGETA/lingoDuo-xaM.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013/douban.js",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/douban.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013/Douban.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013/zhangshanggongjiao.js",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/zhangshanggongjiao.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013/Applet.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013/applet.js",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/applet.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013/Applet.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013/caiyun_json.js",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/caiyun_json.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013/CaiYunAds.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013/weibo_json.js",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/weibo_json.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013/WeiboAds.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013/weibo_search_info.json",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/weibo_search_info.json",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013/WeiboAds.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013/weibo_search_topic.json",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/weibo_search_topic.json",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013/WeiboAds.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013/amdc.js",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/amdc.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013/AmapAds.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013/amap.js",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/amap.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013/AmapAds.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013/netease.adblock.js",
+   "url": "https://gist.githubusercontent.com/ddgksf2013/4f53b7c6083678df25fecc8ff68b52c4/raw/netease.adblock.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013/NeteaseAds.conf"
+  },
+  {
+   "path": "scripts/NobyDa/Google_CAPTCHA.js",
+   "url": "https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Google_CAPTCHA.js",
+   "kind": "script",
+   "parent": "rewrite/NobyDa/GoogleCAPTCHA.snippet"
+  },
+  {
+   "path": "scripts/ddgksf2013/weixin110.js",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/weixin110.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013/UnblockURLinWeChat.conf"
+  },
+  {
+   "path": "scripts/RavelloH/main.js",
+   "url": "https://gist.github.com/RavelloH/68ed0626dae69a1ce7c8ad6887087ea1/raw/c008127260bc4dcd550fcd98285048cf6176f602/main.js",
+   "kind": "script",
+   "parent": "rewrite/RavelloH/main.snippet"
+  },
+  {
+   "path": "scripts/reven.jsforbaby.workers.dev/qx-itunes.js",
+   "url": "https://reven.jsforbaby.workers.dev/reven/qx-itunes.js",
+   "kind": "script",
+   "parent": "rewrite/reven.jsforbaby.workers.dev/iTunes.conf"
+  },
+  {
+   "path": "scripts/chavyleung/chavy.boxjs.js",
+   "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.js",
+   "kind": "script",
+   "parent": "rewrite/chavyleung/boxjs.rewrite.quanx.conf"
+  },
+  {
+   "path": "scripts/fmz200/applet.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/applet.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/cleanup.snippet"
+  },
+  {
+   "path": "scripts/fmz200/cyys.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/cyys.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/cleanup.snippet"
+  },
+  {
+   "path": "scripts/fmz200/coco.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/coco.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/cleanup.snippet"
+  },
+  {
+   "path": "scripts/fmz200/didiAds.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/didi/didiAds.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/cleanup.snippet"
+  },
+  {
+   "path": "scripts/fmz200/ems.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/ems.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/cleanup.snippet"
+  },
+  {
+   "path": "scripts/fmz200/ming.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/ming.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/cleanup.snippet"
+  },
+  {
+   "path": "scripts/fmz200/lawson.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/lawson.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/cleanup.snippet"
+  },
+  {
+   "path": "scripts/fmz200/manhuatailite.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/manhuatailite.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/cleanup.snippet"
+  },
+  {
+   "path": "scripts/fmz200/kff.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/kff.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/cleanup.snippet"
+  },
+  {
+   "path": "scripts/fmz200/watsons.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/watsons.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/cleanup.snippet"
+  },
+  {
+   "path": "scripts/fmz200/qingju.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/qingju.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/cleanup.snippet"
+  },
+  {
+   "path": "scripts/fmz200/FamilyMart.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/FamilyMart.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/cleanup.snippet"
+  },
+  {
+   "path": "scripts/fmz200/soda.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/soda.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/cleanup.snippet"
+  },
+  {
+   "path": "scripts/fmz200/T3.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/T3.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/cleanup.snippet"
+  },
+  {
+   "path": "scripts/fmz200/xiaotucc.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/xiaotucc.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/cleanup.snippet"
+  },
+  {
+   "path": "scripts/fmz200/xiaodaka.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/xiaodaka.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/cleanup.snippet"
+  },
+  {
+   "path": "scripts/fmz200/heytea.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/heytea.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/cleanup.snippet"
+  },
+  {
+   "path": "scripts/fmz200/yx.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/yx.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/cleanup.snippet"
+  },
+  {
+   "path": "scripts/fmz200/alittle-tea.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/alittle-tea.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/cleanup.snippet"
+  },
+  {
+   "path": "scripts/fmz200/zhangshanggongjiao.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/zhangshanggongjiao.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/cleanup.snippet"
+  },
+  {
+   "path": "scripts/fmz200/jabi.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/jabi.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/cleanup.snippet"
+  },
+  {
+   "path": "scripts/NSRingo/response.bundle.js",
+   "url": "https://github.com/NSRingo/WeatherKit/releases/download/v3.3.2/response.bundle.js",
+   "kind": "script",
+   "parent": "rewrite/NSRingo/iRingo.WeatherKit.snippet"
+  },
+  {
+   "path": "scripts/NSRingo/request.bundle.js",
+   "url": "https://github.com/NSRingo/WeatherKit/releases/download/v3.3.2/request.bundle.js",
+   "kind": "script",
+   "parent": "rewrite/NSRingo/iRingo.WeatherKit.snippet"
+  },
+  {
+   "path": "scripts/sub-store-org/sub-store-1.min.js",
+   "url": "https://github.com/sub-store-org/Sub-Store/releases/latest/download/sub-store-1.min.js",
+   "kind": "script",
+   "parent": "rewrite/sub-store-org/QX.snippet"
+  },
+  {
+   "path": "scripts/sub-store-org/sub-store-0.min.js",
+   "url": "https://github.com/sub-store-org/Sub-Store/releases/latest/download/sub-store-0.min.js",
+   "kind": "script",
+   "parent": "rewrite/sub-store-org/QX.snippet"
+  },
+  {
+   "path": "scripts/TomCatXue/pixiv_enhanced.js",
+   "url": "https://raw.githubusercontent.com/TomCatXue/MyCookieCenter/main/scripts/tools/pixiv/pixiv_enhanced.js?v=b61d3c03",
+   "kind": "script",
+   "parent": "rewrite/TomCatXue/PixivEnhanced.plugin"
+  },
+  {
+   "path": "scripts/Maasea/weread.js",
+   "url": "https://raw.githubusercontent.com/Maasea/sgmodule/master/Script/WeRead/weread.js",
+   "kind": "script",
+   "parent": "rewrite/Maasea/WeRead.sgmodule"
+  },
+  {
+   "path": "scripts/ddgksf2013/reddit.js",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/reddit.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013/RedditAds.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013/bilibili_cc.js",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/bilibili_cc.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013/Bilibili_CC.conf"
+  },
+  {
+   "path": "scripts/androidcn/tonghuashun.js",
+   "url": "https://raw.githubusercontent.com/androidcn/userscripts/main/tonghuashun.js",
+   "kind": "script",
+   "parent": "rewrite/ZenmoFeiShi/rewrite.conf"
+  },
+  {
+   "path": "scripts/fmz200/zhuanzhuan.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/zhuanzhuan/zhuanzhuan.js",
+   "kind": "script",
+   "parent": "rewrite/ZenmoFeiShi/rewrite.conf"
+  },
+  {
+   "path": "scripts/limbopro.com/Adblock4limbo.js",
+   "url": "https://limbopro.com/Adguard/Adblock4limbo.js",
+   "kind": "script",
+   "parent": "rewrite/limbopro.com/Adblock4limbo.conf"
+  },
+  {
+   "path": "scripts/kokoryh/12306.js",
+   "url": "https://raw.githubusercontent.com/kokoryh/Script/master/js/12306.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/51card.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/51card.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/555Ad.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/555Ad.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/cainiao.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/cainiao/cainiao.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/myBlockAds.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/myBlockAds.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/adrive.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/adrive/adrive.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/cnftp.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/cnftp.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/baidumap.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/baidumap.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/bohe_ads.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/bohe/bohe_ads.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/zirawell/bilibiliManga.js",
+   "url": "https://raw.githubusercontent.com/zirawell/R-Store/main/Res/Scripts/AntiAd/bilibiliManga.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/blued.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/blued.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/caixinAd.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/caixin/caixinAd.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "others/Keywos/caiyun.json",
+   "url": "https://raw.githubusercontent.com/Keywos/rule/main/mocks/caiyun.json",
+   "kind": "data",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/zirawell/dianping.js",
+   "url": "https://raw.githubusercontent.com/zirawell/R-Store/main/Res/Scripts/AntiAd/dianping.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/dianyinglieshou.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/dianyinglieshou.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/zirawell/ddxq.js",
+   "url": "https://raw.githubusercontent.com/zirawell/R-Store/main/Res/Scripts/AntiAd/ddxq.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/NobyDa/BahamutAnimeAds.js",
+   "url": "https://raw.githubusercontent.com/NobyDa/Script/master/Bahamut/BahamutAnimeAds.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/zirawell/wechatApplet.js",
+   "url": "https://raw.githubusercontent.com/zirawell/R-Store/main/Res/Scripts/AntiAd/wechatApplet.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/fly.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/fly.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/zirawell/flyert.js",
+   "url": "https://raw.githubusercontent.com/zirawell/R-Store/main/Res/Scripts/AntiAd/flyert.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/fenbi.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/fenbi.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/zirawell/foliday.js",
+   "url": "https://raw.githubusercontent.com/zirawell/R-Store/main/Res/Scripts/AntiAd/foliday.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/umetrip_ads.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/umetrip/umetrip_ads.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/zirawell/freshippo.js",
+   "url": "https://raw.githubusercontent.com/zirawell/R-Store/main/Res/Scripts/AntiAd/freshippo.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/huifutianxia_ads.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/huifutianxia_ads.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/ithome.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/ithome/ithome.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/zirawell/ccblife.js",
+   "url": "https://raw.githubusercontent.com/zirawell/R-Store/main/Res/Scripts/AntiAd/ccblife.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/zirawell/alicdn.js",
+   "url": "https://raw.githubusercontent.com/zirawell/R-Store/main/Res/Scripts/AntiAd/alicdn.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/jingdong.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/jingdong/jingdong.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/jingxiAd.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/jingxiAd.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/coolapk.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/coolapk.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/kuwo.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/kuwo/kuwo.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/quark.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/quark.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/app2smile/adsense.js",
+   "url": "https://raw.githubusercontent.com/app2smile/rules/master/js/adsense.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/keep.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/keep.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/ltsst-ad.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/lvtusuishenting/ltsst-ad.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/zirawell/mafengwo.js",
+   "url": "https://raw.githubusercontent.com/zirawell/R-Store/main/Res/Scripts/AntiAd/mafengwo.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/zirawell/mdb.js",
+   "url": "https://raw.githubusercontent.com/zirawell/R-Store/main/Res/Scripts/AntiAd/mdb.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/maimai_ads.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/maimai/maimai_ads.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/mlxx.js",
+   "url": "https://github.com/fmz200/wool_scripts/raw/main/Scripts/mlxx/mlxx.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/meiyou_ads.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/meiyou/meiyou_ads.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/miguvideo_ads.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/refs/heads/main/Scripts/miguvideo/miguvideo_ads.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/PupuSplashAds.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/PupuSplashAds.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/zirawell/qmai.js",
+   "url": "https://raw.githubusercontent.com/zirawell/R-Store/main/Res/Scripts/AntiAd/qmai.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/app2smile/qidian.js",
+   "url": "https://raw.githubusercontent.com/app2smile/rules/master/js/qidian.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/zirawell/51job.js",
+   "url": "https://raw.githubusercontent.com/zirawell/R-Store/main/Res/Scripts/AntiAd/51job.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/QuDa.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/QuDa.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/rrtv_json.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/rrtv_json.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/reddit.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/reddit.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/smzdm_ads.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/smzdm/smzdm_ads.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/Smzdm.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/smzdm/Smzdm.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/req_replace_body.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/template/req_replace_body.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/soul_ads.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/soul/soul_ads.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/app2smile/spotify-qx-header.js",
+   "url": "https://raw.githubusercontent.com/app2smile/rules/master/js/spotify-qx-header.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/app2smile/spotify-proto.js",
+   "url": "https://raw.githubusercontent.com/app2smile/rules/master/js/spotify-proto.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/app2smile/spotify-json.js",
+   "url": "https://raw.githubusercontent.com/app2smile/rules/master/js/spotify-json.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/app2smile/qq-news.js",
+   "url": "https://raw.githubusercontent.com/app2smile/rules/master/js/qq-news.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/zirawell/tuhu.js",
+   "url": "https://raw.githubusercontent.com/zirawell/R-Store/main/Res/Scripts/AntiAd/tuhu.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/app2smile/vgtime.js",
+   "url": "https://raw.githubusercontent.com/app2smile/rules/master/js/vgtime.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/dict-youdao-ad.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/youdao/dict-youdao-ad.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/Keywos/wyres.js",
+   "url": "https://raw.githubusercontent.com/Keywos/rule/main/script/wy/js/wyres.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/zZPiglet/UnblockURLinWeChat.js",
+   "url": "https://raw.githubusercontent.com/zZPiglet/Task/master/asset/UnblockURLinWeChat.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/Sliverkiss/wnbz.js",
+   "url": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/AdBlock/xmApp/wnbz.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/ishowshu/goofish.js",
+   "url": "https://raw.githubusercontent.com/ishowshu/qx/refs/heads/main/script/goofish.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/NobyDa/xjsp.js",
+   "url": "https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/xjsp.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/xiaohongshu.js",
+   "url": "https://github.com/fmz200/wool_scripts/raw/main/Scripts/xiaohongshu/xiaohongshu.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/Sliverkiss/xmApp.js",
+   "url": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/AdBlock/xmApp/xmApp.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/zirawell/usmile.js",
+   "url": "https://raw.githubusercontent.com/zirawell/R-Store/main/Res/Scripts/AntiAd/usmile.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/Maasea/youtube.response.js",
+   "url": "https://raw.githubusercontent.com/Maasea/sgmodule/refs/heads/master/Script/Youtube/youtube.response.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/cmschina.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/cmschina/cmschina.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/zhihu.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/zhihu/zhihu.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/zirawell/airchina.js",
+   "url": "https://raw.githubusercontent.com/zirawell/R-Store/main/Res/Scripts/AntiAd/airchina.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "scripts/fmz200/picc_ads.js",
+   "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/picc/picc_ads.js",
+   "kind": "script",
+   "parent": "rewrite/fmz200/rewrite.snippet"
+  },
+  {
+   "path": "others/DualSubs/DualSubs.YouTube.PreferencePanes.json",
+   "url": "https://github.com/DualSubs/YouTube/releases/download/v1.6.0/DualSubs.YouTube.PreferencePanes.json",
+   "kind": "data",
+   "parent": "rewrite/DualSubs/DualSubs.YouTube.snippet"
+  },
+  {
+   "path": "scripts/DualSubs/request.bundle.js",
+   "url": "https://github.com/DualSubs/YouTube/releases/download/v1.6.0/request.bundle.js",
+   "kind": "script",
+   "parent": "rewrite/DualSubs/DualSubs.YouTube.snippet"
+  },
+  {
+   "path": "scripts/DualSubs/response.bundle.js",
+   "url": "https://github.com/DualSubs/YouTube/releases/download/v1.6.0/response.bundle.js",
+   "kind": "script",
+   "parent": "rewrite/DualSubs/DualSubs.YouTube.snippet"
+  },
+  {
+   "path": "scripts/DualSubs/Composite.Subtitles.response.bundle_2.js",
+   "url": "https://github.com/DualSubs/Universal/releases/latest/download/Composite.Subtitles.response.bundle.js",
+   "kind": "script",
+   "parent": "rewrite/DualSubs/DualSubs.YouTube.snippet"
+  },
+  {
+   "path": "scripts/DualSubs/Translate.response.bundle_2.js",
+   "url": "https://github.com/DualSubs/Universal/releases/latest/download/Translate.response.bundle.js",
+   "kind": "script",
+   "parent": "rewrite/DualSubs/DualSubs.YouTube.snippet"
+  },
+  {
+   "path": "others/DualSubs/DualSubs.Spotify.PreferencePanes.json",
+   "url": "https://github.com/DualSubs/Spotify/releases/download/v1.10.0/DualSubs.Spotify.PreferencePanes.json",
+   "kind": "data",
+   "parent": "rewrite/DualSubs/DualSubs.Spotify.snippet"
+  },
+  {
+   "path": "scripts/DualSubs/response.bundle_2.js",
+   "url": "https://github.com/DualSubs/Spotify/releases/download/v1.10.0/response.bundle.js",
+   "kind": "script",
+   "parent": "rewrite/DualSubs/DualSubs.Spotify.snippet"
+  },
+  {
+   "path": "scripts/DualSubs/request.bundle_2.js",
+   "url": "https://github.com/DualSubs/Spotify/releases/download/v1.10.0/request.bundle.js",
+   "kind": "script",
+   "parent": "rewrite/DualSubs/DualSubs.Spotify.snippet"
+  },
+  {
+   "path": "scripts/DualSubs/External.Lyrics.response.bundle.js",
+   "url": "https://github.com/DualSubs/Universal/releases/latest/download/External.Lyrics.response.bundle.js",
+   "kind": "script",
+   "parent": "rewrite/DualSubs/DualSubs.Spotify.snippet"
+  }
+ ]
+}
