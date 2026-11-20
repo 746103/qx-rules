@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Mirror Quantumult X remote resources listed in sources.json into this repo.
 
-- Downloads every entry from its upstream URL (retry once with a Quantumult X UA).
+- Downloads every entry from its upstream URL (Quantumult X UA first, then a generic UA; HTML error pages are rejected).
 - In rewrite snippets, discovers second-level script URLs (.js), mirrors them too,
   and rewrites them to this repo's raw URLs.
 - On fetch failure keeps the existing copy; never exits non-zero for upstream errors.
@@ -10,8 +10,14 @@ import json, os, re, sys, urllib.parse, urllib.request, posixpath
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MANIFEST = os.path.join(ROOT, "sources.json")
-UAS = ["Mozilla/5.0 (curl-compatible mirror)",
-       "Quantumult%20X/1.5.2 (iPhone; iOS 17.0; Scale/3.00)"]
+UAS = ["Quantumult%20X/1.5.2 (iPhone; iOS 17.0; Scale/3.00)",
+       "Mozilla/5.0 (curl-compatible mirror)"]
+
+def looks_html(data, url):
+    if url.lower().split("?")[0].endswith((".html", ".htm")):
+        return False
+    head = data[:512].lstrip().lower()
+    return head.startswith(b"<!doctype html") or head.startswith(b"<html")
 URL_RE = re.compile(r"https?://[^\s,\"'<>]+")
 # Second-level dependencies inside rewrite snippets: script bodies (QX "url script-xxx URL",
 # Surge/Loon "script-path=URL"), echo-response mock files and jq-path files. Match patterns
@@ -32,9 +38,9 @@ def fetch(url):
             with urllib.request.urlopen(req, timeout=30) as r:
                 if r.status == 200:
                     data = r.read()
-                    if data:
+                    if data and not looks_html(data, url):
                         return data, None
-                    last = "empty body"
+                    last = "HTML page instead of file" if data else "empty body"
                 else:
                     last = "HTTP %s" % r.status
         except Exception as e:  # noqa

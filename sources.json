@@ -1699,6 +1699,168 @@
    "url": "https://github.com/DualSubs/Universal/releases/latest/download/External.Lyrics.response.bundle.js",
    "kind": "script",
    "parent": "rewrite/DualSubs/DualSubs.Spotify.snippet"
+  },
+  {
+   "path": "scripts/ddgksf2013.top/bilibili.ads.js",
+   "url": "https://ddgksf2013.top/scripts/bilibili.ads.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013.top/BiliBiliAdsLite.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013.top/weibo_json.js",
+   "url": "https://ddgksf2013.top/scripts/weibo_json.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013.top/WeiboEnhanced.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013.top/redbook.ads.js",
+   "url": "https://ddgksf2013.top/scripts/redbook.ads.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013.top/XiaoHongShuAds.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013/dict.js",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/dict.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013.top/StartUpAds.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013/555Ad.js",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/555Ad.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013.top/StartUpAds.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013/123pan.js",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/123pan.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013.top/StartUpAds.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013/12306.js",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/12306.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013.top/StartUpAds.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013/ahfs.js",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/ahfs.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013.top/StartUpAds.conf"
+  },
+  {
+   "path": "scripts/app2smile/baidumap.js",
+   "url": "https://raw.githubusercontent.com/app2smile/rules/master/js/baidumap.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013.top/StartUpAds.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013/baishitv.js",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/master/baishitv.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013.top/StartUpAds.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013/caixinads.js",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/caixinads.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013.top/StartUpAds.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013/fly.js",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/fly.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013.top/StartUpAds.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013/hanglvzongheng.js",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/hanglvzongheng.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013.top/StartUpAds.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013/iqiyi_open_ads.js",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/iqiyi_open_ads.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013.top/StartUpAds.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013/ithome.js",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/ithome.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013.top/StartUpAds.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013/startup.js",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/startup.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013.top/StartUpAds.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013/jd_json.js",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/jd_json.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013.top/StartUpAds.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013/coolapk.js",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/coolapk.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013.top/StartUpAds.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013/quark.js",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/master/quark.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013.top/StartUpAds.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013/abchina.js",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/master/abchina.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013.top/StartUpAds.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013/pupumarket.js",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/master/pupumarket.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013.top/StartUpAds.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013/pinganads.js",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/master/pinganads.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013.top/StartUpAds.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013/qidian.js",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/qidian.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013.top/StartUpAds.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013/shunfeng_json.js",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/shunfeng_json.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013.top/StartUpAds.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013/stay.js",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/stay.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013.top/StartUpAds.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013/smzdm_json.js",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/smzdm_json.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013.top/StartUpAds.conf"
+  },
+  {
+   "path": "scripts/ddgksf2013/zhihu_openads.js",
+   "url": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/zhihu_openads.js",
+   "kind": "script",
+   "parent": "rewrite/ddgksf2013.top/StartUpAds.conf"
   }
  ]
 }

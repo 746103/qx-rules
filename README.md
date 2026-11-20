@@ -113,7 +113,7 @@ Raw 地址前缀：`https://raw.githubusercontent.com/746103/qx-rules/main/`
 | `rewrite/DualSubs/DualSubs.YouTube.snippet` | https://github.com/DualSubs/YouTube/releases/latest/download/DualSubs.YouTube.snippet | ok |
 | `rewrite/DualSubs/DualSubs.Spotify.snippet` | https://github.com/DualSubs/Spotify/releases/latest/download/DualSubs.Spotify.snippet | ok |
 
-## 脚本 scripts/ (158)
+## 脚本 scripts/ (185)
 
 | 文件 | 原始地址 | 状态 |
 |---|---|---|
@@ -275,6 +275,33 @@ Raw 地址前缀：`https://raw.githubusercontent.com/746103/qx-rules/main/`
 | `scripts/DualSubs/response.bundle_2.js` | https://github.com/DualSubs/Spotify/releases/download/v1.10.0/response.bundle.js | ok |
 | `scripts/DualSubs/request.bundle_2.js` | https://github.com/DualSubs/Spotify/releases/download/v1.10.0/request.bundle.js | ok |
 | `scripts/DualSubs/External.Lyrics.response.bundle.js` | https://github.com/DualSubs/Universal/releases/latest/download/External.Lyrics.response.bundle.js | ok |
+| `scripts/ddgksf2013.top/bilibili.ads.js` | https://ddgksf2013.top/scripts/bilibili.ads.js | ok |
+| `scripts/ddgksf2013.top/weibo_json.js` | https://ddgksf2013.top/scripts/weibo_json.js | ok |
+| `scripts/ddgksf2013.top/redbook.ads.js` | https://ddgksf2013.top/scripts/redbook.ads.js | ok |
+| `scripts/ddgksf2013/dict.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/dict.js | ok |
+| `scripts/ddgksf2013/555Ad.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/555Ad.js | ok |
+| `scripts/ddgksf2013/123pan.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/123pan.js | ok |
+| `scripts/ddgksf2013/12306.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/12306.js | ok |
+| `scripts/ddgksf2013/ahfs.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/ahfs.js | ok |
+| `scripts/app2smile/baidumap.js` | https://raw.githubusercontent.com/app2smile/rules/master/js/baidumap.js | ok |
+| `scripts/ddgksf2013/baishitv.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/master/baishitv.js | ok |
+| `scripts/ddgksf2013/caixinads.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/caixinads.js | ok |
+| `scripts/ddgksf2013/fly.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/fly.js | ok |
+| `scripts/ddgksf2013/hanglvzongheng.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/hanglvzongheng.js | ok |
+| `scripts/ddgksf2013/iqiyi_open_ads.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/iqiyi_open_ads.js | ok |
+| `scripts/ddgksf2013/ithome.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/ithome.js | ok |
+| `scripts/ddgksf2013/startup.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/startup.js | ok |
+| `scripts/ddgksf2013/jd_json.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/jd_json.js | ok |
+| `scripts/ddgksf2013/coolapk.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/coolapk.js | ok |
+| `scripts/ddgksf2013/quark.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/master/quark.js | ok |
+| `scripts/ddgksf2013/abchina.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/master/abchina.js | ok |
+| `scripts/ddgksf2013/pupumarket.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/master/pupumarket.js | ok |
+| `scripts/ddgksf2013/pinganads.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/master/pinganads.js | ok |
+| `scripts/ddgksf2013/qidian.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/qidian.js | ok |
+| `scripts/ddgksf2013/shunfeng_json.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/shunfeng_json.js | ok |
+| `scripts/ddgksf2013/stay.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/stay.js | ok |
+| `scripts/ddgksf2013/smzdm_json.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/smzdm_json.js | ok |
+| `scripts/ddgksf2013/zhihu_openads.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/zhihu_openads.js | ok |
 
 ## 图标 icons/ (50)
 
