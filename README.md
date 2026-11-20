@@ -10,7 +10,7 @@ Raw 地址前缀：`https://raw.githubusercontent.com/746103/qx-rules/main/`
 本仓库只是镜像，不拥有任何文件的版权。每个文件的版权和许可证归下表中原始仓库/作者所有，
 请遵守原项目的许可证；如原作者要求删除，请提 issue。脚本仅供个人学习使用。
 
-## 分流规则 rules/ (29)
+## 分流规则 rules/ (28)
 
 | 文件 | 原始地址 | 状态 |
 |---|---|---|
@@ -42,9 +42,8 @@ Raw 地址前缀：`https://raw.githubusercontent.com/746103/qx-rules/main/`
 | `rules/fmz200/GeoIP_CN.list` | https://github.com/fmz200/wool_scripts/raw/main/Loon/rule/GeoIP_CN.list | ok |
 | `rules/fmz200/LAN.list` | https://github.com/fmz200/wool_scripts/raw/main/Loon/rule/LAN.list | ok |
 | `rules/VPSDance/global_2.list` | https://raw.githubusercontent.com/VPSDance/ai-proxy-rules/main/rules/quantumult-x/global.list | ok |
-| `rules/ddgksf2013.top/Ai.yaml` | https://ddgksf2013.top/filter/Ai.yaml | ok |
 
-## 重写 rewrite/ (64)
+## 重写 rewrite/ (50)
 
 | 文件 | 原始地址 | 状态 |
 |---|---|---|
@@ -60,17 +59,11 @@ Raw 地址前缀：`https://raw.githubusercontent.com/746103/qx-rules/main/`
 | `rewrite/devchristian1337/Spotify.lpx` | https://raw.githubusercontent.com/devchristian1337/loon-plugins/refs/heads/main/Plugins/Spotify.lpx | ok |
 | `rewrite/DualSubs/DualSubs.Universal.snippet` | https://github.com/DualSubs/Universal/releases/latest/download/DualSubs.Universal.snippet | ok |
 | `rewrite/TAKAGIVEGETA/lingoDuo-xaM.conf` | https://raw.githubusercontent.com/TAKAGIVEGETA/MyScripts/main/lingoDuo/lingoDuo-xaM.conf | ok |
-| `rewrite/ddgksf2013.top/TencentDocAds.conf` | https://ddgksf2013.top/rewrite/TencentDocAds.conf | ok |
-| `rewrite/ddgksf2013.top/javdbapp.ads.js` | https://ddgksf2013.top/scripts/javdbapp.ads.js | ok |
-| `rewrite/ddgksf2013.top/missav.ads.js` | https://ddgksf2013.top/scripts/missav.ads.js | ok |
 | `rewrite/ddgksf2013/Douban.conf` | https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/Html/Douban.conf | ok |
 | `rewrite/ddgksf2013/MoJiWeatherAds.conf` | https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/MoJiWeatherAds.conf | ok |
 | `rewrite/ddgksf2013/Applet.conf` | https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/Applet.conf | ok |
-| `rewrite/ddgksf2013.top/BiliBiliAdsLite.conf` | https://ddgksf2013.top/rewrite/BiliBiliAdsLite.conf | ok |
 | `rewrite/ddgksf2013/CaiYunAds.conf` | https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/CaiYunAds.conf | ok |
-| `rewrite/ddgksf2013.top/zhihu.ads.js` | https://ddgksf2013.top/scripts/zhihu.ads.js | ok |
 | `rewrite/ddgksf2013/WeiboAds.conf` | https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/WeiboAds.conf | ok |
-| `rewrite/ddgksf2013.top/WeiboEnhanced.conf` | https://ddgksf2013.top/rewrite/WeiboEnhanced.conf | ok |
 | `rewrite/ddgksf2013/AmapAds.conf` | https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/AmapAds.conf | ok |
 | `rewrite/ddgksf2013/NeteaseAds.conf` | https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/NeteaseAds.conf | ok |
 | `rewrite/ddgksf2013/GoofishAds.conf` | https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/GoofishAds.conf | ok |
@@ -78,10 +71,7 @@ Raw 地址前缀：`https://raw.githubusercontent.com/746103/qx-rules/main/`
 | `rewrite/ddgksf2013/Douban_2.conf` | https://github.com/ddgksf2013/Rewrite/raw/master/Html/Douban.conf | ok |
 | `rewrite/ddgksf2013/General.conf` | https://github.com/ddgksf2013/Rewrite/raw/master/Html/General.conf | ok |
 | `rewrite/NobyDa/GoogleCAPTCHA.snippet` | https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Snippet/GoogleCAPTCHA.snippet | ok |
-| `rewrite/ddgksf2013.top/XiaoHongShuAds.conf` | https://ddgksf2013.top/rewrite/XiaoHongShuAds.conf | ok |
-| `rewrite/ddgksf2013.top/bdpan.ads.js` | https://ddgksf2013.top/scripts/bdpan.ads.js | ok |
 | `rewrite/ddgksf2013/UnblockURLinWeChat.conf` | https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/Function/UnblockURLinWeChat.conf | ok |
-| `rewrite/ddgksf2013.top/bdpan.unlock.js` | https://ddgksf2013.top/scripts/bdpan.unlock.js | ok |
 | `rewrite/RavelloH/main.snippet` | https://gist.githubusercontent.com/RavelloH/68ed0626dae69a1ce7c8ad6887087ea1/raw/main.snippet | ok |
 | `rewrite/reven.jsforbaby.workers.dev/iTunes.conf` | https://reven.jsforbaby.workers.dev/reven/iTunes.conf | ok |
 | `rewrite/chavyleung/boxjs.rewrite.quanx.conf` | https://github.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.quanx.conf | ok |
@@ -91,21 +81,16 @@ Raw 地址前缀：`https://raw.githubusercontent.com/746103/qx-rules/main/`
 | `rewrite/NSRingo/iRingo.WeatherKit.snippet` | https://github.com/NSRingo/WeatherKit/releases/latest/download/iRingo.WeatherKit.snippet | ok |
 | `rewrite/sub-store-org/QX.snippet` | https://raw.githubusercontent.com/sub-store-org/Sub-Store/master/config/QX.snippet | ok |
 | `rewrite/TomCatXue/PixivEnhanced.plugin` | https://raw.githubusercontent.com/TomCatXue/MyCookieCenter/main/loon/PixivEnhanced.plugin | ok |
-| `rewrite/ddgksf2013.top/pornhub.ads.js` | https://ddgksf2013.top/scripts/pornhub.ads.js | ok |
 | `rewrite/ddgksf2013/pipixia.adblock.js` | https://gist.githubusercontent.com/ddgksf2013/bb1dadbd32f67c68772caebcc70b0a33/raw/pipixia.adblock.js | ok |
 | `rewrite/Maasea/WeRead.sgmodule` | https://raw.githubusercontent.com/Maasea/sgmodule/master/WeRead.sgmodule | ok |
 | `rewrite/ddgksf2013/RedditAds.conf` | https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/RedditAds.conf | ok |
-| `rewrite/ddgksf2013.top/Redirect2Turrit.sgmodule` | https://ddgksf2013.top/module/Redirect2Turrit.sgmodule | ok |
 | `rewrite/ddgksf2013/Bilibili_CC.conf` | https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/Function/Bilibili_CC.conf | ok |
-| `rewrite/ddgksf2013.top/pikpak.fnc.js` | https://ddgksf2013.top/scripts/pikpak.fnc.js | ok |
 | `rewrite/chavyleung/boxjs.rewrite.quanx_2.conf` | https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.quanx.conf | ok |
 | `rewrite/ddgksf2013/Q-Search_2.conf` | https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/Html/Q-Search.conf | ok |
 | `rewrite/ddgksf2013/BiliBiliComicsAds.conf` | https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/BiliBiliComicsAds.conf | ok |
-| `rewrite/ddgksf2013.top/wannianli.vip.js` | https://ddgksf2013.top/scripts/wannianli.vip.js | ok |
 | `rewrite/ddgksf2013/AmapAds_2.conf` | https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/AmapAds.conf | ok |
 | `rewrite/ZenmoFeiShi/rewrite.conf` | https://raw.githubusercontent.com/ZenmoFeiShi/Reject-AD/main/rewrite.conf | ok |
 | `rewrite/limbopro.com/Adblock4limbo.conf` | https://limbopro.com/Adblock4limbo.conf | ok |
-| `rewrite/ddgksf2013.top/StartUpAds.conf` | https://ddgksf2013.top/rewrite/StartUpAds.conf | ok |
 | `rewrite/fmz200/rewrite.snippet` | https://github.com/fmz200/wool_scripts/raw/main/QuantumultX/rewrite/rewrite.snippet | ok |
 | `rewrite/ddgksf2013/QiShuiMusicAds.conf` | https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/QiShuiMusicAds.conf | ok |
 | `rewrite/ddgksf2013/YoutubeAds.conf` | https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/YoutubeAds.conf | ok |
@@ -113,7 +98,7 @@ Raw 地址前缀：`https://raw.githubusercontent.com/746103/qx-rules/main/`
 | `rewrite/DualSubs/DualSubs.YouTube.snippet` | https://github.com/DualSubs/YouTube/releases/latest/download/DualSubs.YouTube.snippet | ok |
 | `rewrite/DualSubs/DualSubs.Spotify.snippet` | https://github.com/DualSubs/Spotify/releases/latest/download/DualSubs.Spotify.snippet | ok |
 
-## 脚本 scripts/ (185)
+## 脚本 scripts/ (157)
 
 | 文件 | 原始地址 | 状态 |
 |---|---|---|
@@ -127,7 +112,6 @@ Raw 地址前缀：`https://raw.githubusercontent.com/746103/qx-rules/main/`
 | `scripts/KOP-XIAO/streaming-ui-check.js` | https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/streaming-ui-check.js | ok |
 | `scripts/RavelloH/block_check.js` | https://gist.githubusercontent.com/RavelloH/383354955aa3800e1d7e98666e11e16f/raw/block_check.js | ok |
 | `scripts/RavelloH/ip_test.js` | https://gist.github.com/RavelloH/d4152389cd810a402b641a625ce83857/raw/ip_test.js | ok |
-| `scripts/ddgksf2013.top/server-info-pure.js` | https://ddgksf2013.top/scripts/server-info-pure.js | ok |
 | `scripts/unknowntokyo/dns-clear-cache.js` | https://raw.githubusercontent.com/unknowntokyo/surge-list/master/X/dns-clear-cache.js | ok |
 | `scripts/MaYIHEI/milottery.js` | https://raw.githubusercontent.com/MaYIHEI/paperclip/refs/heads/main/app/milottery/milottery.js | ok |
 | `scripts/ZenmoFeiShi/youtube.response.js` | https://raw.githubusercontent.com/ZenmoFeiShi/Qx/refs/heads/main/youtube.response.js | ok |
@@ -275,33 +259,6 @@ Raw 地址前缀：`https://raw.githubusercontent.com/746103/qx-rules/main/`
 | `scripts/DualSubs/response.bundle_2.js` | https://github.com/DualSubs/Spotify/releases/download/v1.10.0/response.bundle.js | ok |
 | `scripts/DualSubs/request.bundle_2.js` | https://github.com/DualSubs/Spotify/releases/download/v1.10.0/request.bundle.js | ok |
 | `scripts/DualSubs/External.Lyrics.response.bundle.js` | https://github.com/DualSubs/Universal/releases/latest/download/External.Lyrics.response.bundle.js | ok |
-| `scripts/ddgksf2013.top/bilibili.ads.js` | https://ddgksf2013.top/scripts/bilibili.ads.js | ok |
-| `scripts/ddgksf2013.top/weibo_json.js` | https://ddgksf2013.top/scripts/weibo_json.js | ok |
-| `scripts/ddgksf2013.top/redbook.ads.js` | https://ddgksf2013.top/scripts/redbook.ads.js | ok |
-| `scripts/ddgksf2013/dict.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/dict.js | ok |
-| `scripts/ddgksf2013/555Ad.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/555Ad.js | ok |
-| `scripts/ddgksf2013/123pan.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/123pan.js | ok |
-| `scripts/ddgksf2013/12306.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/12306.js | ok |
-| `scripts/ddgksf2013/ahfs.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/ahfs.js | ok |
-| `scripts/app2smile/baidumap.js` | https://raw.githubusercontent.com/app2smile/rules/master/js/baidumap.js | ok |
-| `scripts/ddgksf2013/baishitv.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/master/baishitv.js | ok |
-| `scripts/ddgksf2013/caixinads.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/caixinads.js | ok |
-| `scripts/ddgksf2013/fly.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/fly.js | ok |
-| `scripts/ddgksf2013/hanglvzongheng.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/hanglvzongheng.js | ok |
-| `scripts/ddgksf2013/iqiyi_open_ads.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/iqiyi_open_ads.js | ok |
-| `scripts/ddgksf2013/ithome.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/ithome.js | ok |
-| `scripts/ddgksf2013/startup.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/startup.js | ok |
-| `scripts/ddgksf2013/jd_json.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/jd_json.js | ok |
-| `scripts/ddgksf2013/coolapk.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/coolapk.js | ok |
-| `scripts/ddgksf2013/quark.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/master/quark.js | ok |
-| `scripts/ddgksf2013/abchina.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/master/abchina.js | ok |
-| `scripts/ddgksf2013/pupumarket.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/master/pupumarket.js | ok |
-| `scripts/ddgksf2013/pinganads.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/master/pinganads.js | ok |
-| `scripts/ddgksf2013/qidian.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/qidian.js | ok |
-| `scripts/ddgksf2013/shunfeng_json.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/shunfeng_json.js | ok |
-| `scripts/ddgksf2013/stay.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/stay.js | ok |
-| `scripts/ddgksf2013/smzdm_json.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/smzdm_json.js | ok |
-| `scripts/ddgksf2013/zhihu_openads.js` | https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/zhihu_openads.js | ok |
 
 ## 图标 icons/ (50)
 

@@ -4,6 +4,7 @@
 - Downloads every entry from its upstream URL (Quantumult X UA first, then a generic UA; HTML error pages are rejected).
 - In rewrite snippets, discovers second-level script URLs (.js), mirrors them too,
   and rewrites them to this repo's raw URLs.
+- Hosts in sources.json "exclude_hosts" are never mirrored (left pointing upstream).
 - On fetch failure keeps the existing copy; never exits non-zero for upstream errors.
 """
 import json, os, re, sys, urllib.parse, urllib.request, posixpath
@@ -76,7 +77,11 @@ def strip_comments(line):
 
 def main():
     m = json.load(open(MANIFEST, encoding="utf-8"))
-    entries = m["files"]
+    excl = set(m.get("exclude_hosts", []))
+    def excluded(u):
+        h = urllib.parse.urlparse(u).netloc.lower()
+        return any(h == x or h.endswith("." + x) for x in excl)
+    entries = [e for e in m["files"] if not excluded(e["url"])]
     taken = {e["path"]: e["url"] for e in entries}
     by_url = {e["url"]: e for e in entries}
     status = {}
@@ -97,7 +102,7 @@ def main():
                 for kw, u in DEP_RE.findall(line):
                     u = u.rstrip(")];")
                     cat = "scripts" if kw.startswith("script") else "others"
-                    if u not in by_url:
+                    if u not in by_url and not excluded(u):
                         ne = {"path": path_for(u, cat, taken), "url": u,
                               "kind": "script" if cat == "scripts" else "data", "parent": e["path"]}
                         taken[ne["path"]] = u; by_url[u] = ne; entries.append(ne)
